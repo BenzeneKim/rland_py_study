@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="rland_py_study", # Replace with your own username
-    version="0.0.0.1",
+    version="0.0.0.2",
     author="Roboroboland",
     author_email="kimjunseob1@roborobo.co.kr",
     description="Package for studying python features",

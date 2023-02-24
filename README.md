@@ -1,4 +1,4 @@
-Roboroboland Python Study Package(v 0.0.0.1)
+Roboroboland Python Study Package(v 0.0.0.2)
 =================================
 > This package is about roboroboland's python study. It includes from basic calculator examples to advanced serial communication multi threading code.
 
