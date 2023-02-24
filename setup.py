@@ -11,11 +11,11 @@ setuptools.setup(
     description="Package for studying python features",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    #url="https://github.com/BenzeneKim/rland_py_study",
+    url="https://github.com/BenzeneKim/rland_py_study",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
