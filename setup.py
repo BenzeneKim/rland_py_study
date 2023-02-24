@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="RoboSmartServo", # Replace with your own username
-    version="0.0.1",
-    author="Example Author",
+    name="rland_py_study", # Replace with your own username
+    version="0.0.0.1",
+    author="Roboroboland",
     author_email="kimjunseob1@roborobo.co.kr",
-    description="Package for operating Smart Servos made by ROBOROBO in Seoul ROK",
+    description="Package for studying python features",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    #url="https://github.com/BenzeneKim/rland_py_study",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
